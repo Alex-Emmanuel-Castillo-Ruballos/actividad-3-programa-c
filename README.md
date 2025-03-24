@@ -13,3 +13,9 @@ Pasos para su ejecución:
 
 - gcc conversor.c -o conversor
 - ./conversor
+
+Datos del autor (nombre, correo, carnet)
+
+- Alex Castillo
+- alex.castillo@galileo.edu
+- 20005117
